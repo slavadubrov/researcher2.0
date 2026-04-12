@@ -4,6 +4,12 @@ Forget everything you think you know. Strip the topic down to fundamental truths
 
 > **Lineage:** This lens applies Cartesian doubt (Descartes' method of systematic skepticism) and the Socratic method (questioning assumptions until only defensible truths remain). In modern practice, it maps to Elon Musk's popularized "first principles reasoning" — but the technique is 2,400 years old. The key lesson from philosophy: the hard part isn't stripping assumptions, it's knowing when you've actually reached bedrock vs. a deeper assumption you haven't noticed.
 
+> **Distinction from [[contrarian]]:** First Principles rebuilds from axioms WITHOUT knowledge of what the consensus says. Contrarian starts FROM the consensus and attacks it. If you find yourself referencing "what everyone thinks" or "the mainstream view," you've slipped into contrarian mode. Return to axioms.
+
+## Independence Rule
+
+Do not reference findings from previous lenses. Approach the question fresh. Your analysis should be able to stand alone.
+
 ## Core Questions
 1. What are the fundamental, undeniable facts about this topic?
 2. What's the simplest model that explains 80% of what we observe?

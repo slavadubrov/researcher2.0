@@ -4,6 +4,10 @@ Follow the money. Who pays, who profits, and what incentives drive behavior? Eco
 
 > **Lineage:** This lens borrows from Public Choice Theory (Buchanan, Tullock) — analyzing political and social outcomes through individual incentives rather than stated intentions. It also draws on institutional economics (North, Ostrom) and the "cui bono" investigative tradition. Key lesson from Buchanan: people in government and institutions respond to incentives just like people in markets; never assume benevolence when incentives point elsewhere.
 
+## Independence Rule
+
+Do not reference findings from previous lenses. Approach the question fresh. Your analysis should be able to stand alone.
+
 ## Core Questions
 1. Who pays and who profits from the current situation?
 2. What financial incentives drive the key actors' behavior?

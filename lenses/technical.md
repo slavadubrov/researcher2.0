@@ -4,6 +4,10 @@ Strip away opinions and narratives. What do the numbers actually say? What mecha
 
 > **Lineage:** This lens applies the empiricist tradition and evidence-based methodology — let data speak before interpretation. It mirrors the intelligence community's practice of separating raw intelligence (what happened) from analysis (what it means). Also draws on the scientific method's emphasis on measurement, reproducibility, and explicit uncertainty. Key lesson: the gap between "what the data shows" and "what people say the data shows" is where most errors hide.
 
+## Independence Rule
+
+Do not reference findings from previous lenses. Approach the question fresh. Your analysis should be able to stand alone.
+
 ## Core Questions
 1. What does the DATA show? (not what people say about the data)
 2. What are the measurable inputs and outputs?

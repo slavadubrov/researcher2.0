@@ -56,3 +56,15 @@ For every key claim in your research, ask:
 5. Is this the BEST available evidence, or just the first I found?
 
 See [[contradiction-protocol]] when two credible sources disagree.
+
+## Language and Source Bias
+
+Most readily available sources are English-language and Western-published. This creates systematic blind spots:
+
+- Non-English sources may contain data, perspectives, or expert analysis absent from English-language coverage
+- Institutions in Tier 1-2 (UN, World Bank, peer-reviewed journals) skew toward Western academic traditions
+- When researching topics with global dimensions, actively seek sources from affected regions — not just Western analysis OF those regions
+- Local experts in non-English publications often have higher-quality ground truth than international observers
+- Note when your source base is geographically or linguistically narrow — this is a finding, not just a limitation. record it in [[open-questions]]
+
+This doesn't mean non-English sources are automatically better. apply the same tier system and red flag checklist. but if all your sources are in one language from one region, your analysis has a blind spot you need to acknowledge.

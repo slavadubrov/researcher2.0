@@ -4,6 +4,12 @@ What if the consensus is wrong? Who benefits from the current narrative? What's 
 
 > **Lineage:** This lens formalizes Devil's Advocacy and Red Team analysis — techniques used by the US Intelligence Community and military planning to prevent groupthink. The IC learned the hard way that organizations without structured dissent converge on comfortable consensus. The key lesson: the designated contrarian must have real analytical teeth, not just a token objection.
 
+> **Distinction from [[first-principles]]:** Contrarian starts FROM the consensus and stress-tests it. First Principles ignores the consensus entirely and rebuilds from fundamental truths. If you find yourself reasoning from axioms rather than attacking the mainstream view, you've slipped into first-principles mode. Return to the consensus and attack it.
+
+## Independence Rule
+
+Do not reference findings from previous lenses. Approach the question fresh. Your analysis should be able to stand alone.
+
 ## Core Questions
 1. What is the mainstream narrative on this topic?
 2. What is the STRONGEST argument against the consensus? (not the craziest — the strongest)
@@ -20,6 +26,30 @@ What if the consensus is wrong? Who benefits from the current narrative? What's 
 - Check if the consensus has a track record: has this group been right before?
 - Look for survivorship bias: are we only hearing from the winners?
 - Steel-man the contrarian position: make the BEST possible case against consensus
+
+## Pre-Mortem Protocol
+
+After completing your contrarian analysis, assume the MAIN conclusion from the overall research is wrong. ask:
+- What are the top 3 reasons the overall research conclusion could fail?
+- What evidence exists TODAY that points toward failure?
+- What would have to be true for the consensus to be completely wrong?
+
+This is not hypothetical. build the strongest real case you can.
+
+## Bet Against Consensus
+
+If you had to wager real money AGAINST the main finding, what's your case? this must be a genuine argument you could defend, not a straw man. if you can't construct a credible bet, either the consensus is very strong (state this explicitly) or you haven't tried hard enough.
+
+## Adversarial Scoring
+
+For each counter-argument you produce, rate its genuine threat level:
+- **1** — token objection. unlikely to survive scrutiny
+- **2** — minor concern. worth noting but not destabilizing
+- **3** — real challenge. requires a substantive response from other lenses
+- **4** — serious threat. could invalidate a major finding if the evidence goes this way
+- **5** — existential threat. if this is right, the main conclusion is wrong
+
+If none of your counter-arguments score 3 or above, you haven't tried hard enough. go back and find a stronger challenge.
 
 ## Output Format
 For each finding:

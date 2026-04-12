@@ -7,34 +7,30 @@ How to approach different types of research questions. Read this BEFORE starting
 ## Framework Selection
 
 ### Type 1: "Is X true?" (Verification)
-- Start with [[technical]] lens to establish what the data actually says
-- Then [[contrarian]] to stress-test the claim
-- Then [[historical]] for precedent
+- **Core lenses:** [[technical]] → [[contrarian]] → [[historical]]
+- **Expansion lenses (optional):** [[economic]], [[first-principles]], [[cultural]]
 - Best for: fact-checking, debunking, validating assumptions
 - Example: "Is nuclear fusion viable by 2035?"
 
 ### Type 2: "Why is X happening?" (Causal Analysis)
-- Start with [[historical]] to trace the roots
-- Then [[economic]] to find incentive structures
-- Then [[technical]] for mechanism
-- Then [[geopolitical]] for systemic forces
-- Then [[contrarian]] to challenge your causal chain
+- **Core lenses:** [[historical]] → [[economic]] → [[technical]]
+- **Expansion lenses (optional):** [[geopolitical]], [[contrarian]], [[cultural]], [[ethical]]
 - Best for: understanding trends, explaining phenomena
 - Example: "Why are birth rates collapsing globally?"
 
 ### Type 3: "What happens if X?" (Scenario Planning)
-- Start with [[first-principles]] to establish base assumptions
-- Then [[technical]] for constraints
-- Then [[economic]] for incentives
-- Then [[geopolitical]] for power dynamics
+- **Core lenses:** [[first-principles]] → [[technical]] → [[economic]]
+- **Expansion lenses (optional):** [[geopolitical]], [[cultural]], [[ethical]], [[contrarian]]
 - Best for: forecasting, strategy, decision-making
 - Example: "What happens to Europe if birth rates stay below replacement for 30 years?"
 
 ### Type 4: "What should I do about X?" (Decision Support)
-- Start with [[executive-summary]] of existing knowledge
-- Then run all 6 lenses in parallel
-- Rank options by lens agreement (if 5/6 lenses point the same way, high confidence)
+- **Core lenses:** all 8 in parallel
+- Start with [[executive-summary-template|executive summary]] of existing knowledge
+- Rank options by lens agreement (if 6/8 lenses point the same way, high confidence)
 - Best for: investment decisions, policy, strategy
+
+For Quick Scan depth: use only core lenses. For Standard and Deep Dive: use core + expansion lenses relevant to the domain.
 
 ## Research Depth Levels
 
@@ -55,6 +51,27 @@ How to approach different types of research questions. Read this BEFORE starting
 - Interview/expert source integration
 - Contradiction resolution required
 - Goal: publishable analysis, decision-grade intelligence
+
+## Domain-Based Lens Selection
+
+In addition to question type, the topic domain suggests which lenses will be most productive:
+
+| Domain | Core Lenses | Often Valuable | Rarely Needed |
+|--------|-------------|----------------|---------------|
+| Technology / Science | technical, first-principles, contrarian | economic, historical | geopolitical, ethical (unless policy-adjacent) |
+| Policy / Governance | geopolitical, economic, ethical | historical, cultural | technical (unless data-driven policy) |
+| Social / Demographic | cultural, historical, economic | ethical, contrarian | technical (unless measurement-focused) |
+| Markets / Finance | economic, technical, contrarian | geopolitical, historical | ethical, cultural |
+| Conflict / Security | geopolitical, historical, contrarian | economic, ethical | cultural, first-principles |
+| Ethics / Philosophy | ethical, first-principles, cultural | historical, contrarian | technical, economic |
+
+Use this as guidance, not a rule. If a "rarely needed" lens produces a surprising finding, that surprise is often the most valuable insight in the project.
+
+## When to Skip a Lens
+
+Skip a lens only if you can articulate why it's irrelevant. "I don't think it applies" is not sufficient. "This question has no geopolitical dimension because it concerns individual behavior within a single jurisdiction" is.
+
+If you skip a lens, note it in the [[deep-dive-template|deep dive]] methodology section with your reasoning. Skipped lenses that turn out to be relevant are a common source of analytical failure.
 
 ## Source Collection Strategy
 
