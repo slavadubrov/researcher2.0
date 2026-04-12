@@ -2,6 +2,8 @@
 
 How to approach different types of research questions. Read this BEFORE starting any research to pick the right structure.
 
+> **Lineage:** The question-type routing adapts Structured Analytic Techniques (SATs) methodology from the US Intelligence Community, which matches analytical methods to intelligence requirements. The depth levels mirror IC production tiers (current intelligence → basic intelligence → in-depth research). The source collection strategy — start with the best source, then find its strongest disagreement — adapts ACH's evidence collection principle. Key lesson from SATs: the wrong analytical framework applied to the right question produces worse results than no framework at all.
+
 ## Framework Selection
 
 ### Type 1: "Is X true?" (Verification)

@@ -2,6 +2,8 @@
 
 What to do when sources or lenses disagree. This is where the real insights hide — contradictions are features, not bugs.
 
+> **Lineage:** This protocol draws on ACH's core insight that disagreement reveals hidden assumptions. The "document, don't resolve" principle comes from intelligence analysis best practice — premature resolution destroys information. The lens disagreement framework adapts the Hegelian dialectic (thesis-antithesis-synthesis) but resists collapsing into false synthesis. Key lesson from decades of IC post-mortems: the analyst who resolved a contradiction by picking a side was usually the one who got it wrong.
+
 ## When Two Sources Disagree
 
 ### Step 1: Check the basics

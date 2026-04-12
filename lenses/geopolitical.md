@@ -2,6 +2,8 @@
 
 Zoom out to the global chessboard. Which countries, which power dynamics, which alliances and conflicts shape this topic?
 
+> **Lineage:** This lens draws on Realist International Relations theory (Morgenthau, Mearsheimer, Waltz) — states as primary actors, power as currency, interests over ideology. It also borrows from geopolitical analysis traditions (Mackinder, Brzezinski) that map how geography, resources, and strategic position shape state behavior. Key lesson: stated values explain rhetoric; material interests explain behavior.
+
 ## Core Questions
 1. Which countries or regions are most affected and how?
 2. What power shifts does this create or accelerate?

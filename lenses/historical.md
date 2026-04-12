@@ -2,6 +2,8 @@
 
 What patterns repeat? What's been tried before? What context is everyone forgetting? History doesn't repeat but it rhymes — find the rhymes.
 
+> **Lineage:** This lens applies the comparative historical method (Theda Skocpol, Barrington Moore) — systematic comparison of cases across time and place to identify causal patterns. It also draws on the Annales School (Braudel) and its emphasis on longue durée: slow-moving structural forces that shape events more than individuals do. Key lesson: the most dangerous historical analogy is the one nobody questions.
+
 ## Core Questions
 1. When has something like this happened before?
 2. What conditions led to similar situations in the past?

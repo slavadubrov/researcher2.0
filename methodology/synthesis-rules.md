@@ -2,6 +2,8 @@
 
 How to combine findings across lenses without losing nuance. This is the hardest part of research — most people skip it and just stack facts.
 
+> **Lineage:** This process adapts Richards Heuer's Analysis of Competing Hypotheses (ACH) — systematically weighing evidence across multiple hypotheses rather than building a case for one. The Agreement/Tension Map structure borrows from ACH's evidence matrix. The confidence calibration follows Philip Tetlock's superforecasting methodology: explicit probability, stated assumptions, and pre-committed conditions for changing your mind. Key lesson from ACH: the hypothesis that best explains the evidence is not always the one with the most supporting evidence — it's the one with the least disconfirming evidence.
+
 ## The Synthesis Process
 
 ### Step 1: Lens Summary

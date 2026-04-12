@@ -2,6 +2,8 @@
 
 Follow the money. Who pays, who profits, and what incentives drive behavior? Economics reveals the hidden machinery behind why things happen the way they do.
 
+> **Lineage:** This lens borrows from Public Choice Theory (Buchanan, Tullock) — analyzing political and social outcomes through individual incentives rather than stated intentions. It also draws on institutional economics (North, Ostrom) and the "cui bono" investigative tradition. Key lesson from Buchanan: people in government and institutions respond to incentives just like people in markets; never assume benevolence when incentives point elsewhere.
+
 ## Core Questions
 1. Who pays and who profits from the current situation?
 2. What financial incentives drive the key actors' behavior?

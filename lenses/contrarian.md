@@ -2,6 +2,8 @@
 
 What if the consensus is wrong? Who benefits from the current narrative? What's nobody saying? This lens exists to stress-test every other lens.
 
+> **Lineage:** This lens formalizes Devil's Advocacy and Red Team analysis — techniques used by the US Intelligence Community and military planning to prevent groupthink. The IC learned the hard way that organizations without structured dissent converge on comfortable consensus. The key lesson: the designated contrarian must have real analytical teeth, not just a token objection.
+
 ## Core Questions
 1. What is the mainstream narrative on this topic?
 2. What is the STRONGEST argument against the consensus? (not the craziest — the strongest)

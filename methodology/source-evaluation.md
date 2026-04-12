@@ -2,6 +2,8 @@
 
 How to judge if a source is worth trusting. Apply this to EVERY source before using it in analysis.
 
+> **Lineage:** This tier system adapts the intelligence community's source grading methodology, where raw intelligence is rated by both source reliability (A-F) and information confidence (1-6). The red flags checklist draws on media literacy frameworks and Carl Sagan's "Baloney Detection Kit." The evaluation checklist echoes the CRAAP test (Currency, Relevance, Authority, Accuracy, Purpose) used in academic research. Key lesson from the IC: even Tier 1 sources can be wrong — the tier tells you how much to trust, not whether to believe.
+
 ## Source Tier System
 
 ### Tier 1: Primary Data (highest trust)

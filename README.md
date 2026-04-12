@@ -87,6 +87,20 @@ This system gets better every time you use it:
 
 For a clean slate, use only `methodology/` and `lenses/` — same system, fresh brain.
 
+## Intellectual Lineage
+
+This system draws on established analytical traditions:
+
+- **Structured Analytic Techniques (SATs)** — The US Intelligence Community's toolkit for rigorous analysis, developed from the 1990s onward. The multi-lens approach mirrors SAT methodology; the source tier system adapts IC source grading.
+- **Analysis of Competing Hypotheses (ACH)** — Richards Heuer's framework for weighing evidence across multiple hypotheses. The synthesis rules and contradiction protocol are direct descendants.
+- **Six Thinking Hats** — Edward de Bono's parallel thinking method (1985). Six defined perspectives applied sequentially to a problem. Key lesson borrowed: mode-switching is hard and requires deliberate isolation between perspectives.
+- **Devil's Advocacy & Red Teaming** — The Contrarian lens formalizes the intelligence community's practice of designated dissent to prevent groupthink.
+- **Socratic Method & Cartesian Doubt** — The First Principles lens applies systematic doubt: strip away assumptions, rebuild from what can be known with certainty.
+- **Realist International Relations Theory** — The Geopolitical lens draws on the realist tradition: states as primary actors, power as the currency, interests over ideology.
+- **Public Choice Theory** — The Economic lens borrows from Buchanan and Tullock: analyze political and social outcomes through the lens of individual incentives, not stated intentions.
+
+The system's core insight — that tension between perspectives is where the real insight lives — echoes the Hegelian dialectic (thesis-antithesis-synthesis), adapted from a binary framework to a multi-perspective ensemble.
+
 ## Visualize with Obsidian (optional)
 
 Open this folder as a vault in [Obsidian](https://obsidian.md). The `[[wikilinks]]` throughout all files create a connected graph with `index.md` at the center, lenses radiating out, and methodology files connecting to everything. Graph view helps you spot research gaps and unexpected connections between projects.
