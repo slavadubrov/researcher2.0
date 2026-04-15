@@ -20,7 +20,7 @@ When the user provides a research question (directly or via the /research comman
 5. Synthesize using `methodology/synthesis-rules.md`
 6. Produce outputs using templates in `templates/`
 7. Evaluate against `methodology/output-evaluation.md`
-8. Update `knowledge/` and `research-log.md`
+8. Update `knowledge/` and `projects/research-log.md`
 
 ## Project Structure
 
@@ -37,4 +37,4 @@ When the user provides a research question (directly or via the /research comman
 - Preserve irreducible tensions as findings, not problems to resolve
 - Always cite source tiers (see `methodology/source-evaluation.md`)
 - Create project subfolder in `projects/` for each research run
-- Log every project in `research-log.md`
+- Log every project in `projects/research-log.md`
